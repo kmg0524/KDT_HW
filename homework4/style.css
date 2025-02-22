@@ -1,5 +1,5 @@
 #export-btn {
-    background: #04AB46;
+    background: hsl(0, 0%, 43%);
     color: white;
     border: none;
     padding: 10px;
@@ -26,6 +26,6 @@
 }
 
 .cell.header.active {
-    background: lightblue;
+    background: #4e4e4e;
     color: white;
 }
